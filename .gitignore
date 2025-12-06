@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Byte-compiled / caches
+*.egg-info/
+dist/
+build/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+
+# Data / models (optional)
+
+*.joblib
+
+# Streamlit local files
+.streamlit/
+
+# Jupyter
+.ipynb_checkpoints/
